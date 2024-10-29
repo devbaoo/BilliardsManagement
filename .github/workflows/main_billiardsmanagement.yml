@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'billiardsmanagement'
           slot-name: 'Production'
-          package: ${{ runner.workspace }}/myapp
+          package: .
