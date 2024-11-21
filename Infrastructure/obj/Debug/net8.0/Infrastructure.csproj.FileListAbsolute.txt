@@ -19,3 +19,4 @@ C:\Users\caokh\Desktop\Billiards\BilliardsProMax\Infrastructure\obj\Debug\net8.0
 C:\Users\caokh\Desktop\Billiards\BilliardsProMax\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
 C:\Users\caokh\Desktop\Billiards\BilliardsProMax\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
 C:\Users\caokh\Desktop\Billiards\BilliardsProMax\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+C:\Users\caokh\Desktop\Billiards\BilliardsProMax\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json

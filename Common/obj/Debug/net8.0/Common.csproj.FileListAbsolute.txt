@@ -13,3 +13,4 @@ C:\Users\caokh\Desktop\Billiards\BilliardsProMax\Common\obj\Debug\net8.0\Common.
 C:\Users\caokh\Desktop\Billiards\BilliardsProMax\Common\obj\Debug\net8.0\refint\Common.dll
 C:\Users\caokh\Desktop\Billiards\BilliardsProMax\Common\obj\Debug\net8.0\Common.pdb
 C:\Users\caokh\Desktop\Billiards\BilliardsProMax\Common\obj\Debug\net8.0\ref\Common.dll
+C:\Users\caokh\Desktop\Billiards\BilliardsProMax\Common\obj\Debug\net8.0\Common.sourcelink.json
