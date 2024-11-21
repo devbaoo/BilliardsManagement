@@ -12,4 +12,11 @@
       <ProjectReference Include="..\Domain\Domain.csproj" />
     </ItemGroup>
 
+    <ItemGroup>
+      <PackageReference Include="AutoMapper" Version="13.0.1" />
+      <PackageReference Include="Microsoft.AspNetCore.Mvc.Core" Version="2.2.5" />
+      <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="8.0.1" />
+      <PackageReference Include="Swashbuckle.AspNetCore.Annotations" Version="6.5.0" />
+    </ItemGroup>
+
 </Project>

@@ -12,5 +12,6 @@ public static class DIConfiguration
     {
         service.AddScoped<IRoleService, RoleService>();
         service.AddTransient<IUnitOfWork, UnitOfWork>();
+        
     }
 }

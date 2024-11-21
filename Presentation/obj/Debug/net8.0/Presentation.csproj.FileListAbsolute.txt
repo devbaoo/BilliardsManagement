@@ -79,3 +79,9 @@ C:\Users\caokh\Desktop\Billiards\BilliardsProMax\Presentation\bin\Debug\net8.0\C
 C:\Users\caokh\Desktop\Billiards\BilliardsProMax\Presentation\bin\Debug\net8.0\Data.pdb
 C:\Users\caokh\Desktop\Billiards\BilliardsProMax\Presentation\bin\Debug\net8.0\Domain.pdb
 C:\Users\caokh\Desktop\Billiards\BilliardsProMax\Presentation\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\caokh\Desktop\Billiards\BilliardsProMax\Presentation\bin\Debug\net8.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\caokh\Desktop\Billiards\BilliardsProMax\Presentation\obj\Debug\net8.0\Presentation.sourcelink.json
+C:\Users\caokh\Desktop\Billiards\BilliardsProMax\Presentation\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\caokh\Desktop\Billiards\BilliardsProMax\Presentation\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\caokh\Desktop\Billiards\BilliardsProMax\Presentation\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\caokh\Desktop\Billiards\BilliardsProMax\Presentation\bin\Debug\net8.0\AutoMapper.dll
